@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Daniel Tae Kim
 
-<!--
-**opseoul/opseoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Pursuing Master’s in Business Analytics & AI @ Johns Hopkins  
+📈 Strategic Partner & Analytics Manager @ Onschola  
+🌍 Based in South Korea | Open to global roles  
+📊 Passionate about using data to solve real-world problems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Skills
+- Python (Pandas, Scikit-learn, Seaborn, Matplotlib)
+- Tableau | R-Studio
+- SQL | Excel | Jupyter Notebooks
+- Machine Learning | EDA | Predictive Modeling
+
+---
+
+## 📌 Featured Projects
+
+- 🔍 [Customer Churn Analysis](https://github.com/opseoul/Customer-Churn-Analysis)  
+  ML model to predict churn using banking data
+
+- 🛒 [Amazon Sales Executive Dashboard](https://github.com/opseoul/Amazon-Sales-Executive-Dashboard)  
+  Tableau dashboard analyzing top revenue-driving products
+
+- 🏡 [Home Loan Prediction](https://github.com/opseoul/Home-Loan-Predictions)  
+  Logistic regression model on home loan approvals
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: [linkedin.com/in/tae-yeon-kim-1273b144](https://linkedin.com/in/tae-yeon-kim-1273b144)
+- Email: danieltaekim1@gmail.com
+
