@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daniel Tae Kim
 
-🎓 Pursuing Master’s in Business Analytics & AI @ Johns Hopkins  
+🎓 Pursuing Master’s in Business Analytics & Artficial Intelligence @ Johns Hopkins  
 📈 Strategic Partner & Analytics Manager @ Onschola  
 🌍 Based in South Korea | Open to global roles  
 📊 Passionate about using data to solve real-world problems  
